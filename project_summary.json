@@ -1,0 +1,16 @@
+{
+  "project_name": "11PlusBench_MLLM_Spatial_Reasoning_Evaluator",
+  "project_type": "computer_vision",
+  "completion_time": "2025-08-28T20:44:31.858977",
+  "total_tasks": 10,
+  "completed_tasks": 10,
+  "failed_tasks": 0,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/11PlusBench_MLLM_Spatial_Reasoning_Evaluator"
+}
